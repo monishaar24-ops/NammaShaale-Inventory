@@ -288,10 +288,10 @@ app/
 
 # Developed By
 
-Khushi Hosamani
+Monisha.A.R
 
-BE – Electronics and Communication Engineering  
-Kalpataru Institute of Technology, Tiptur
+BE – Information science and Engineering  
+
 
 VTU – Visvesvaraya Technological University
 
